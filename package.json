@@ -1,0 +1,15 @@
+{
+  "name": "creating-repo-from-github",
+  "version": "1.0.0",
+  "description": "I have created repo's from VS code and desktop. Now I'd create from here and just clone to Desktop and VS code",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "david obaro",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "github:mysqljs/mysql"
+  }
+}
